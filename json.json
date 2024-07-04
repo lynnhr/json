@@ -1,21 +1,24 @@
 {
-  "name": "TikTok Brands",
+  "name": "flare",
   "children": [
     {
-      "name": "Brand 1",
-      "followers": 1000000,
-      "engagement": {
-        "likes": 500000,
-        "shares": 200000
-      }
+      "name": "analytics",
+      "children": [
+        {"name": "AgglomerativeCluster", "value": 3938},
+        {"name": "CommunityStructure", "value": 3812},
+        {"name": "HierarchicalCluster", "value": 6714},
+        {"name": "MergeEdge", "value": 743}
+      ]
     },
     {
-      "name": "Brand 2",
-      "followers": 800000,
-      "engagement": {
-        "likes": 400000,
-        "shares": 150000
-      }
+      "name": "graph",
+      "children": [
+        {"name": "BetweennessCentrality", "value": 3534},
+        {"name": "LinkDistance", "value": 5731},
+        {"name": "MaxFlowMinCut", "value": 7840},
+        {"name": "ShortestPaths", "value": 5914},
+        {"name": "SpanningTree", "value": 3416}
+      ]
     }
   ]
 }
