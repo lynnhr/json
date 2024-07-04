@@ -2,22 +2,21 @@
   "name": "flare",
   "children": [
     {
-      "name": "analytics",
+      "name": "Samsung",
       "children": [
-        {"name": "AgglomerativeCluster", "value": 3938},
-        {"name": "CommunityStructure", "value": 3812},
-        {"name": "HierarchicalCluster", "value": 6714},
-        {"name": "MergeEdge", "value": 743}
+        {"name": "Likes", "value": 3938},
+        {"name": "Shares", "value": 3812},
+        {"name": "Views", "value": 6714},
+        {"name": "Followers", "value": 743}
       ]
     },
     {
-      "name": "graph",
+      "name": "Iphone",
       "children": [
-        {"name": "BetweennessCentrality", "value": 3534},
-        {"name": "LinkDistance", "value": 5731},
-        {"name": "MaxFlowMinCut", "value": 7840},
-        {"name": "ShortestPaths", "value": 5914},
-        {"name": "SpanningTree", "value": 3416}
+        {"name": "Likes", "value": 3534},
+        {"name": "Shares", "value": 5731},
+        {"name": "Views", "value": 7840},
+        {"name": "Followers", "value": 5914}
       ]
     }
   ]
