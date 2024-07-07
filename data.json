@@ -1,0 +1,120 @@
+{
+ "name": "social_media",
+ "children": [
+  {
+   "name": "Tiktok",
+   "children": [
+    {
+     "name": "iphone",
+     "children": [
+      {"name": "AppUsage", "size": 1500},
+      {"name": "UserGrowth", "size": 1200},
+      {"name": "Revenue", "size": 2000},
+      {"name": "Engagement", "size": 1700}
+     ]
+    },
+    {
+     "name": "samsung",
+     "children": [
+      {"name": "AppUsage", "size": 1400},
+      {"name": "UserGrowth", "size": 1100},
+      {"name": "Revenue", "size": 1900},
+      {"name": "Engagement", "size": 1600}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Instagram",
+   "children": [
+    {
+     "name": "iphone",
+     "children": [
+      {"name": "AppUsage", "size": 1800},
+      {"name": "UserGrowth", "size": 1500},
+      {"name": "Revenue", "size": 2200},
+      {"name": "Engagement", "size": 2000}
+     ]
+    },
+    {
+     "name": "samsung",
+     "children": [
+      {"name": "AppUsage", "size": 1700},
+      {"name": "UserGrowth", "size": 1400},
+      {"name": "Revenue", "size": 2100},
+      {"name": "Engagement", "size": 1900}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Twitter",
+   "children": [
+    {
+     "name": "iphone",
+     "children": [
+      {"name": "AppUsage", "size": 1600},
+      {"name": "UserGrowth", "size": 1300},
+      {"name": "Revenue", "size": 2000},
+      {"name": "Engagement", "size": 1800}
+     ]
+    },
+    {
+     "name": "samsung",
+     "children": [
+      {"name": "AppUsage", "size": 1500},
+      {"name": "UserGrowth", "size": 1200},
+      {"name": "Revenue", "size": 1900},
+      {"name": "Engagement", "size": 1700}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "YouTube",
+   "children": [
+    {
+     "name": "iphone",
+     "children": [
+      {"name": "AppUsage", "size": 2000},
+      {"name": "UserGrowth", "size": 1800},
+      {"name": "Revenue", "size": 2500},
+      {"name": "Engagement", "size": 2200}
+     ]
+    },
+    {
+     "name": "samsung",
+     "children": [
+      {"name": "AppUsage", "size": 1900},
+      {"name": "UserGrowth", "size": 1700},
+      {"name": "Revenue", "size": 2400},
+      {"name": "Engagement", "size": 2100}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Facebook",
+   "children": [
+    {
+     "name": "iphone",
+     "children": [
+      {"name": "AppUsage", "size": 2100},
+      {"name": "UserGrowth", "size": 1900},
+      {"name": "Revenue", "size": 2600},
+      {"name": "Engagement", "size": 2300}
+     ]
+    },
+    {
+     "name": "samsung",
+     "children": [
+      {"name": "AppUsage", "size": 2000},
+      {"name": "UserGrowth", "size": 1800},
+      {"name": "Revenue", "size": 2500},
+      {"name": "Engagement", "size": 2200}
+     ]
+    }
+   ]
+  }
+ ]
+}
