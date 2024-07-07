@@ -7,10 +7,10 @@
     {
      "name": "iphone",
      "children": [
-      {"name": "AppUsage", "size": 1500},
-      {"name": "UserGrowth", "size": 1200},
-      {"name": "Revenue", "size": 2000},
-      {"name": "Engagement", "size": 1700}
+      {"name": "AppUsage", "size": 3500},
+      {"name": "UserGrowth", "size": 3200},
+      {"name": "Revenue", "size": 3000},
+      {"name": "Engagement", "size": 3700}
      ]
     },
     {
